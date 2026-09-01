@@ -2,7 +2,7 @@ module github.com/patrickjmcd/go-tracing
 
 go 1.22.7
 
-toolchain go1.23.4
+toolchain go1.27.1
 
 require (
 	go.opentelemetry.io/otel v1.33.0
