@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.2](https://github.com/patrickjmcd/go-tracing/compare/v1.0.1...v1.0.2) (2026-10-15)
+
+
+### Bug Fixes
+
+* **deps:** update opentelemetry-go monorepo to v1.30.0 ([c50bf77](https://github.com/patrickjmcd/go-tracing/commit/c50bf77be6dd599fde7615564c149d4cdd985dfa))
+* **deps:** update opentelemetry-go monorepo to v1.33.0 ([80dd039](https://github.com/patrickjmcd/go-tracing/commit/80dd0398f1e49db55af6c91b39373e45f462c12b))
+* **deps:** update opentelemetry-go monorepo to v1.33.0 ([59a30b7](https://github.com/patrickjmcd/go-tracing/commit/59a30b7c886a29b3227f1f91301752e7a8a734b5))
+
 ## [1.0.1](https://github.com/patrickjmcd/go-tracing/compare/v1.0.0...v1.0.1) (2024-04-25)
 
 
